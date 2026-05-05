@@ -29,7 +29,7 @@ Description: A weather app that fetches data from a public weather API.
 - **Screenshot:**
 <p align="center">
   <kbd>
-    <img src="https://githubusercontent.com" width="600">
+    <img src="assets/weather-app.jpg" width="600">
   </kbd>
 </p>
 
@@ -40,7 +40,7 @@ Description: An interactive sorting algorithm visualizer using JavaScript.
 - **Screenshot:**
 <p align="center">
   <kbd>
-    <img src="https://githubusercontent.com" width="600">
+    <img src="assets/sorting-visualizer.jpg" width="600">
   </kbd>
 </p>
 
@@ -51,6 +51,6 @@ Description: A modern, responsive landing page for a café.
 - **Screenshot:**
 <p align="center">
   <kbd>
-    <img src="https://githubusercontent.com" width="600">
+    <img src="assets/sunnyside-agency-landing-page.jpg" width="600">
   </kbd>
 </p>
