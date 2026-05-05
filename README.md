@@ -45,7 +45,7 @@ Description: An interactive sorting algorithm visualizer using JavaScript.
 </p>
 
 ### 3. ☀️ Sunny Side Landing Page
-Description: A modern, responsive landing page for a café.
+Description: A modern, responsive landing page.
 - **Tech:** HTML, CSS, responsive design ☕
 - [🔗 Live Demo](https://namemyeyes.github.io/Sunnyside-agency-landing-page/)
 - **Screenshot:**
