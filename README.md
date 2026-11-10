@@ -1,10 +1,11 @@
 <p align="center">
-  <img src="assets/hero.svg" width="100%" alt="Mutash, IT student" />
+  <img src="assets/dashboard.svg" width="100%" alt="Mutash — IT Student. Frontend, Android on Kotlin, Java and 1C. Stack: HTML, CSS, JavaScript, Kotlin, Jetpack Compose, Android, Android Studio, Java, Gradle, 1C, Git, GitHub, IntelliJ IDEA, Material Design, Figma, Linux." />
 </p>
 
 <p align="center">
-  <a href="mailto:invinnnnn@gmail.com"><img src="assets/btn-email.svg" alt="Email: invinnnnn@gmail.com" /></a>&nbsp;
-  <a href="https://github.com/namemyeyes?tab=repositories"><img src="assets/btn-github.svg" alt="GitHub: namemyeyes" /></a>
+  <a href="https://github.com/namemyeyes?tab=repositories"><b>GitHub</b></a>
+  &nbsp;·&nbsp;
+  <a href="mailto:invinnnnn@gmail.com"><b>Email</b></a>
 </p>
 
 ### Projects
@@ -16,18 +17,4 @@
   <a href="https://github.com/namemyeyes/Sunnyside-agency-landing-page"><img src="assets/project-Sunnyside-agency-landing-page.svg" width="49%" alt="Sunnyside-agency-landing-page" /></a>
   <a href="https://github.com/namemyeyes/bento-grid-layout"><img src="assets/project-bento-grid-layout.svg" width="49%" alt="bento-grid-layout" /></a>
   <a href="https://github.com/namemyeyes/interactive-rating-component"><img src="assets/project-interactive-rating-component.svg" width="49%" alt="interactive-rating-component" /></a>
-</p>
-
-### Stack
-
-<p align="center">
-  <img src="assets/stack.svg" alt="HTML, CSS, JavaScript, Kotlin, Jetpack Compose, Android, Android Studio, Java, Gradle, 1C, Git, GitHub, IntelliJ IDEA, Material Design, Figma, Linux" />
-</p>
-
-Kotlin and Jetpack Compose for Android, HTML/CSS/JavaScript for the web, Java and 1C for coursework.
-
-### Activity
-
-<p align="center">
-  <img src="assets/stats.svg" width="100%" alt="Contributions, streaks, weekly activity and languages" />
 </p>
