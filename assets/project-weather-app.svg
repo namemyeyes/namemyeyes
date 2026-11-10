@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="176" viewBox="0 0 420 176" fill="none">
+<rect x="0.5" y="0.5" width="419" height="175" rx="16" fill="#0d1117" stroke="#262d3a"/>
+<g transform="translate(22 22)"><rect x="0.8" y="1" width="16.4" height="17" rx="3" fill="none" stroke="#58a6ff" stroke-width="1.7"/><path d="M5 6.5h8M5 10h8M5 13.5h5" stroke="#58a6ff" stroke-width="1.5" stroke-linecap="round"/></g>
+<text x="48" y="38" font-family="'Inter','Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="16" font-weight="600" fill="#e6edf3">weather-app</text>
+<path transform="translate(354 21) scale(0.58)" d="M12 2l2.9 6.2 6.8.9-5 4.7 1.3 6.7L12 17.6 5.9 20.5 7.2 13.8l-5-4.7 6.8-.9z" fill="none" stroke="#6e7681" stroke-width="1.6" stroke-linejoin="round"/>
+<text x="372" y="37" font-family="'Inter','Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="13" fill="#6e7681">0</text>
+<text x="22" y="72" font-family="'JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12.5" fill="#8b949e">Weather app fetching live data</text>
+<text x="22" y="92" font-family="'JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12.5" fill="#8b949e">from a public API.</text>
+<text x="22" y="112" font-family="'JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12.5" fill="#8b949e">Responsive layout.</text>
+<rect x="22.0" y="130" width="101.0" height="26" rx="13" fill="#ffffff08" stroke="#262d3a"/>
+<circle cx="34.0" cy="143" r="3.5" fill="#F7DF1E"/>
+<text x="43.0" y="147.5" font-family="'Inter','Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="12" fill="#c9d1d9">JavaScript</text>
+<rect x="131.0" y="130" width="54.1" height="26" rx="13" fill="#ffffff08" stroke="#262d3a"/>
+<circle cx="143.0" cy="143" r="3.5" fill="#663399"/>
+<text x="152.0" y="147.5" font-family="'Inter','Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="12" fill="#c9d1d9">CSS</text>
+<rect x="193.1" y="130" width="54.1" height="26" rx="13" fill="#ffffff08" stroke="#262d3a"/>
+<circle cx="205.1" cy="143" r="3.5" fill="#58A6FF"/>
+<text x="214.1" y="147.5" font-family="'Inter','Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="12" fill="#c9d1d9">API</text>
+</svg>

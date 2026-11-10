@@ -1,43 +1,33 @@
-# 👋 Hello!
-
-## 🌟 Interests
-
--  **Frontend development**
--  **Responsive design**
--  **API integration**
--  **Clean and scalable code**
-
-## 📂 Projects
-
-### 1. ☁️ Weather App
-Description: A weather app that fetches data from a public weather API.
-- **Tech:** JavaScript, API integration 
-- [ Live Demo](https://namemyeyes.github.io/weather-app/)
-- **Screenshot:**
 <p align="center">
-  <kbd>
-    <img src="assets/weather-app.jpg" width="600">
-  </kbd>
+  <img src="assets/hero.svg" width="100%" alt="Mutash, IT student" />
 </p>
 
-### 2. 📊 Sorting Visualizer
-Description: An interactive sorting algorithm visualizer using JavaScript.
-- **Tech:** JavaScript, HTML, CSS 
-- [ Live Demo](https://namemyeyes.github.io/Sorting-visualizer/)
-- **Screenshot:**
 <p align="center">
-  <kbd>
-    <img src="assets/sorting-visualizer.jpg" width="600">
-  </kbd>
+  <a href="mailto:invinnnnn@gmail.com"><img src="assets/btn-email.svg" alt="Email: invinnnnn@gmail.com" /></a>&nbsp;
+  <a href="https://github.com/namemyeyes?tab=repositories"><img src="assets/btn-github.svg" alt="GitHub: namemyeyes" /></a>
 </p>
 
-### 3. ☀️ Sunny Side Landing Page
-Description: A modern, responsive landing page.
-- **Tech:** HTML, CSS, responsive design 
-- [ Live Demo](https://namemyeyes.github.io/Sunnyside-agency-landing-page/)
-- **Screenshot:**
+### Projects
+
 <p align="center">
-  <kbd>
-    <img src="assets/sunnyside-agency-landing-page.jpg" width="600">
-  </kbd>
+  <a href="https://github.com/namemyeyes/StepCounter"><img src="assets/project-StepCounter.svg" width="49%" alt="StepCounter" /></a>
+  <a href="https://github.com/namemyeyes/weather-app"><img src="assets/project-weather-app.svg" width="49%" alt="weather-app" /></a>
+  <a href="https://github.com/namemyeyes/Sorting-visualizer"><img src="assets/project-Sorting-visualizer.svg" width="49%" alt="Sorting-visualizer" /></a>
+  <a href="https://github.com/namemyeyes/Sunnyside-agency-landing-page"><img src="assets/project-Sunnyside-agency-landing-page.svg" width="49%" alt="Sunnyside-agency-landing-page" /></a>
+  <a href="https://github.com/namemyeyes/bento-grid-layout"><img src="assets/project-bento-grid-layout.svg" width="49%" alt="bento-grid-layout" /></a>
+  <a href="https://github.com/namemyeyes/interactive-rating-component"><img src="assets/project-interactive-rating-component.svg" width="49%" alt="interactive-rating-component" /></a>
+</p>
+
+### Stack
+
+<p align="center">
+  <img src="assets/stack.svg" alt="HTML, CSS, JavaScript, Kotlin, Jetpack Compose, Android, Android Studio, Java, Gradle, 1C, Git, GitHub, IntelliJ IDEA, Material Design, Figma, Linux" />
+</p>
+
+Kotlin and Jetpack Compose for Android, HTML/CSS/JavaScript for the web, Java and 1C for coursework.
+
+### Activity
+
+<p align="center">
+  <img src="assets/stats.svg" width="100%" alt="Contributions, streaks, weekly activity and languages" />
 </p>
